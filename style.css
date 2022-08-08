@@ -17,3 +17,6 @@ input[type=text]:focus{
 i{
     cursor: pointer;
 }
+.filtered{
+    display: none !important;
+}
